@@ -1,0 +1,10 @@
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\ColorCoder.dll.config
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\ColorCoder.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\ColorCoder.pdb
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\LightFX.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\LightFXConfigurator.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\obj\Debug\ColorCoder.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\obj\Debug\ColorCoder.pdb
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\obj\Debug\AFX.csprojResolveAssemblyReference.cache
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\obj\Debug\AFX.csproj.CoreCompileInputs.cache

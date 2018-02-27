@@ -1,0 +1,8 @@
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\ColorCoder.exe.config
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\ColorCoder.exe
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\ColorCoder.pdb
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\LightFX.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\bin\Debug\LightFXConfigurator.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\obj\Debug\ColorCoder.exe
+D:\AFX\AFX_ColorCoder\ColorCoder\ColorCoder\obj\Debug\ColorCoder.pdb

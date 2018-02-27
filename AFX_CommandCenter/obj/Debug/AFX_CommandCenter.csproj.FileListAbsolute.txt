@@ -1,0 +1,15 @@
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\AFX_CommandCenter.exe.config
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\AFX_CommandCenter.exe
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\AFX_CommandCenter.pdb
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\ColorCoder.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\LightFX.dll
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\ColorCoder.pdb
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\ColorCoder.dll.config
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\bin\Debug\ColorCoder.exe.config
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.csprojResolveAssemblyReference.cache
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.CommandCenter.resources
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.Properties.Resources.resources
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.csproj.GenerateResource.Cache
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.exe
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.pdb
+D:\AFX\AFX_ColorCoder\ColorCoder\AFX_CommandCenter\obj\Debug\AFX_CommandCenter.csproj.CoreCompileInputs.cache
